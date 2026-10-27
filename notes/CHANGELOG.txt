@@ -1,0 +1,3 @@
+CHANGELOG Thunderstore-Mod-Manager
+v3.2.18 2026-08-04
+Stamp rev-v8rm9t-20261027
